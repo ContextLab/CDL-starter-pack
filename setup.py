@@ -14,9 +14,9 @@ setup(
     version='0.1.0',
     description='Sample package for Python-Guide.org',
     long_description=readme,
-    author='Kenneth Reitz',
-    author_email='me@kennethreitz.com',
-    url='https://github.com/kennethreitz/samplemod',
+    author='Contextual Dynamics Laboratory',
+    author_email='contextualdynamics@gmail.com',
+    url='https://www.context-lab.com',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
