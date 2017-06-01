@@ -19,7 +19,3 @@ This repository serves as a starting place for all CDL projects.
 2. Type `pip install -e .`
 This should be re-run each time your code is updated and you want your new code to be accessible via your system-wide Python installation.  It assumes that you have [`pip`](https://pip.pypa.io/en/stable/installing/) installed on your computer.
 
-## Instructions to add: ##
-+ Instructions for setting up TravisCI tests
-+ Instructions for integrating with CDL slack channels
-+ Link to lab manual for best coding practices and style guidelines
